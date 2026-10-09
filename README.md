@@ -1,2 +1,0 @@
-# kundli-pocket
-Kundalini project
